@@ -182,7 +182,6 @@ public class Home extends HttpServlet {
 		}
 		out.println("</form>");
 		out.println("</div>");
-
 		out.println("</div>\n</body>\n</html>");
 	}
 
